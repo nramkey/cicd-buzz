@@ -22,5 +22,4 @@ def generate_buzz():
     return phrase.title()
 
 if __name__ == "__main__":
-    phrase = generate_buzz()
-    print phrase
+    print generate_buzz()
